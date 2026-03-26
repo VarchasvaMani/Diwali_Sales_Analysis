@@ -21,7 +21,6 @@ Diwali-Sales-Analysis/
 │
 ├── Diwali_Sales_Analysis.ipynb   # Main Jupyter Notebook
 ├── dataset.csv                  # Dataset file
-├── images/                      # Visualizations (optional)
 └── README.md                    # Project documentation
 ```
 
