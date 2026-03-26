@@ -12,6 +12,37 @@ A complete **Data Analysis project** focused on understanding customer purchasin
 ✅ Sales trend visualization
 ✅ Insights for business strategy
 
+## ⚙️ Setup & Installation
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/your-username/Diwali-Sales-Analysis.git
+cd Diwali-Sales-Analysis
+```
+
+### 2️⃣ Create Virtual Environment (Optional but Recommended)
+
+```bash
+python -m venv venv
+venv\Scripts\activate   # On Windows
+source venv/bin/activate    # On Linux/Mac
+```
+
+### 3️⃣ Install Dependencies
+
+```bash
+pip install pandas numpy matplotlib seaborn jupyter
+```
+
+### 4️⃣ Run the Project
+
+```bash
+jupyter notebook
+```
+
+Open **Diwali_Sales_Analysis.ipynb** and run all cells to see the analysis.
+
 ---
 
 ## 📂 Project Structure
